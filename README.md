@@ -1,5 +1,6 @@
 # enhance-value-and-momentum-index
 Project: Enhanced Value and Momentum Index
+Git: https://github.com/dilip-k-m/enhance-value-and-momentum-index.git
 
 Concept of the product:
 	value and mom investment through index investment in india stock exchange(NSE)
